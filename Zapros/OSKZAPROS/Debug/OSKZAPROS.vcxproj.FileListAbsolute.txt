@@ -1,0 +1,3 @@
+C:\Users\Professional\source\repos\Zapros\OSKZAPROS\Debug\OSKZAPROS.vcxproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\Zapros\OSKZAPROS\Debug\OSKZAPROS.MyForm.resources
+C:\Users\Professional\source\repos\Zapros\OSKZAPROS\Debug\OSKZAPROS.vcxproj.GenerateResource.cache
